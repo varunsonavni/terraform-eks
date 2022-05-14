@@ -1,0 +1,7 @@
+https://github.com/hashicorp/learn-terraform-provision-eks-cluster
+
+https://registry.terraform.io/modules/terraform-aws-modules/eks/aws/latest?tab=inputs
+
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs
+
+https://github.com/terraform-aws-modules/terraform-aws-eks/blob/master/docs/UPGRADE-18.0.md
