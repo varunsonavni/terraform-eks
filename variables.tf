@@ -18,7 +18,7 @@ variable "worker_group_name" {
 
 variable "cluster_version" {
     type = string
-    default = "1.20"
+    default = "1.25"
 }
 
 variable "worker_instance"{
